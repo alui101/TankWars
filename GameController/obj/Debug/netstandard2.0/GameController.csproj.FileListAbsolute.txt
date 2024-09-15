@@ -1,0 +1,16 @@
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\bin\Debug\netstandard2.0\GameController.deps.json
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\bin\Debug\netstandard2.0\GameController.dll
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\bin\Debug\netstandard2.0\GameController.pdb
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\bin\Debug\netstandard2.0\Model.dll
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\bin\Debug\netstandard2.0\NetworkController.dll
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\bin\Debug\netstandard2.0\Vector2D.dll
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\bin\Debug\netstandard2.0\Model.pdb
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\bin\Debug\netstandard2.0\Vector2D.pdb
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\obj\Debug\netstandard2.0\GameController.csproj.AssemblyReference.cache
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\obj\Debug\netstandard2.0\GameController.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\obj\Debug\netstandard2.0\GameController.AssemblyInfoInputs.cache
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\obj\Debug\netstandard2.0\GameController.AssemblyInfo.cs
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\obj\Debug\netstandard2.0\GameController.csproj.CoreCompileInputs.cache
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\obj\Debug\netstandard2.0\GameController.csproj.CopyComplete
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\obj\Debug\netstandard2.0\GameController.dll
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\GameController\obj\Debug\netstandard2.0\GameController.pdb

@@ -1,0 +1,10 @@
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.deps.json
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.dll
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.pdb
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csproj.AssemblyReference.cache
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfoInputs.cache
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfo.cs
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csproj.CoreCompileInputs.cache
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.dll
+D:\Downloads\game-plaza_hassoun_game-main\game-plaza_hassoun_game-main\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.pdb
